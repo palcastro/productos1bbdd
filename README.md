@@ -10,6 +10,9 @@ Los pasos a seguir en resumen serán:**
 7. Dar un valor universal a todos los productos que se clasificarían como utensilios 
 
 
+![image](https://user-images.githubusercontent.com/91055754/159484139-e67d78c9-2334-4977-b616-ad4ace43e468.png)
+
+
 Todos estos cambios y algunos más se muestran en las siguientes capturas de la terminal:
 
 
